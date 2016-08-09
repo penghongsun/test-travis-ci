@@ -6,4 +6,4 @@ node_js:
   - "0.6"
   - "iojs"
 # services: mongodb
-script: make test
+script: make app
